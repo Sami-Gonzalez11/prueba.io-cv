@@ -1,0 +1,118 @@
+css
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20;
+    padding: 20;
+    background:white
+}
+
+.container {
+     font-family: Tahoma, sans-serif;
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    background-color: beige;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(64, 130, 122, 0.1);
+    font-size: 130% ;
+}
+
+.experiencia {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    background-color: beige;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(64, 130, 122, 0.1);
+    font-size: 130% ;
+}
+
+
+.job {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    background-color: beige;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(64, 130, 122, 0.1);
+    font-size: 130% ;
+}
+
+.educacion {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    background-color: beige;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(64, 130, 122, 0.1);
+    font-size: 130% ;
+}
+
+
+.Habilidades {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    background-color: beige;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(64, 130, 122, 0.1);
+    font-size: 130% ;
+}
+
+.Contacto {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    background-color: beige;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(64, 130, 122, 0.1);
+    font-size: 130% ;
+}
+header {
+    text-align: center;
+    margin-bottom: 20px;
+    background-color:cornsilk;
+}
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
+    
+}
+
+.job, .degree {
+    margin-bottom: 20px;
+}
+
+.job h3, .degree h3 {
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background: #e2e2e2;
+    margin: 5px 0;
+    padding: 8px;
+    border-radius: 3px;
+}
