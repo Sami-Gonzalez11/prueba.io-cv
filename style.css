@@ -9,7 +9,7 @@ body {
 
 .container {
      font-family: Tahoma, sans-serif;
-    width: 80%;
+    width: 50%;
     margin: auto;
     overflow: hidden;
     background-color: beige;
@@ -21,7 +21,7 @@ body {
 }
 
 .experiencia {
-    width: 80%;
+    width:50%;
     margin: auto;
     overflow: hidden;
     background-color: beige;
@@ -29,12 +29,12 @@ body {
     margin-top: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(64, 130, 122, 0.1);
-    font-size: 130% ;
+    font-size: 100% ;
 }
 
 
 .job {
-    width: 80%;
+    width: 50%;
     margin: auto;
     overflow: hidden;
     background-color: beige;
@@ -42,11 +42,11 @@ body {
     margin-top: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(64, 130, 122, 0.1);
-    font-size: 130% ;
+    font-size: 100% ;
 }
 
 .educacion {
-    width: 80%;
+    width: 50%;
     margin: auto;
     overflow: hidden;
     background-color: beige;
@@ -54,12 +54,12 @@ body {
     margin-top: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(64, 130, 122, 0.1);
-    font-size: 130% ;
+    font-size: 100% ;
 }
 
 
 .Habilidades {
-    width: 80%;
+    width: 50%;
     margin: auto;
     overflow: hidden;
     background-color: beige;
@@ -67,11 +67,11 @@ body {
     margin-top: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(64, 130, 122, 0.1);
-    font-size: 130% ;
+    font-size: 100% ;
 }
 
 .Contacto {
-    width: 80%;
+    width: 50%;
     margin: auto;
     overflow: hidden;
     background-color: beige;
@@ -79,7 +79,7 @@ body {
     margin-top: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(64, 130, 122, 0.1);
-    font-size: 130% ;
+    font-size: 100% ;
 }
 header {
     text-align: center;
